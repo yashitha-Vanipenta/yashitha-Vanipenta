@@ -28,5 +28,5 @@ A TypeScript-based restaurant voice agent with intent detection, tool orchestrat
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/yashitha-reddy-yashithareddy25
+- LinkedIn: https://www.linkedin.com/in/yashitha-reddy
 - Email: yashithareddy25@gmail.com
